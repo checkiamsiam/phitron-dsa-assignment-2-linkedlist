@@ -1,0 +1,12 @@
+{
+  "cpp": {
+    "prefix": "cpp",
+    "body": ["#include <bits/stdc++.h>", "using namespace std;", "int main()", "{", "    ", "    return 0;", "}"],
+    "description": ""
+  },
+  "print": {
+    "prefix": "print",
+    "body": ["cout << $1 << endl;"],
+    "description": ""
+  }
+}
